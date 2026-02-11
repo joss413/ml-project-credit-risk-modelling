@@ -42,13 +42,13 @@ This project demonstrates how financial risk modeling and explainable AI can be 
 ---
 
 ## 🧩 Confusion Matrix
-<img src="images/Confusion_matrix.png" alt="Confusion Matrix" width="400">
+<img src="images/Confusion_matrix.png" alt="Confusion Matrix" width="800">
 
 The confusion matrix shows model predictions for defaulters and non-defaulters and highlights classification errors.
 
 ## 📈 Feature Importance
 
-<img src="images/Feature_Importatnce.png" alt="Feature Importance" width="400">
+<img src="images/Feature_Importatnce.png" alt="Feature Importance" width="800">
 
 Key features influencing credit risk prediction:
 
@@ -64,7 +64,7 @@ This helps explain which financial behaviors contribute most to default risk.
 ---
 
 ## 📊 Model Evaluation & KS Analysis
-<img src="images/Model_Evaluation.png" alt="Model Evaluation" width="400">
+<img src="images/Model_Evaluation.png" alt="Model Evaluation" width="800">
 
 - KS statistic measures model separation power between defaulters and non-defaulters
 - Decile table shows concentration of defaulters in high-risk groups
